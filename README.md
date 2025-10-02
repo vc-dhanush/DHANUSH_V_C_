@@ -9,7 +9,6 @@ I am **Dhanush V C**, an engineering undergraduate with a strong passion for tec
 
 ## ⚡ Technical Skills & Interests
 
-* **Mobile Development:** Android App Development using Kotlin.
 * **AI & Machine Learning:** Python-based development in ML, AI, and Deep Learning frameworks.
 * **Computer Vision:** OCR, YOLO-based object detection, Inpainting, Neural Style Transfer, and related areas.
 * **Projects:**
@@ -17,7 +16,6 @@ I am **Dhanush V C**, an engineering undergraduate with a strong passion for tec
   * **Handwritten Notes to Digital Text Converter** – converting handwritten notes into structured, digital documents with NLP-based correction.
   * **Non-Invasive Blood Glucose Monitoring System (NIR + AI):** Developing an AI-driven healthcare solution to measure glucose levels without invasive procedures.
   * **Emotion Detection System:** Real-time text, video, and speech analysis to monitor employee well-being.
-  * **Freelance Applications and Websites:** Experience in developing and delivering client-oriented digital solutions.
   * **Podcasting & Content Creation:** Initiated and managed a solo podcast channel for knowledge-sharing.
 
 ## 🚀 Competitions & Hackathons
@@ -29,8 +27,6 @@ I am **Dhanush V C**, an engineering undergraduate with a strong passion for tec
   * **Blissbeat Quiz, IEEE technical events, and other national-level technical fests**.
 
 ## 🏅 Key Achievements
-
-* Successfully delivered **AI and app development projects** with real-world applications.
 * Demonstrated strong teamwork, time management, and resilience in hackathons and collaborative projects.
 * Built a portfolio of innovative projects combining healthcare, productivity, and AI.
 
@@ -41,17 +37,18 @@ I am **Dhanush V C**, an engineering undergraduate with a strong passion for tec
 * Passionate about bridging **technology and real-world impact** through innovative solutions.
 
 ## 🔮 Career Goals
-
-* To build a professional career as an **Android and AI Developer**.
+.
 * To contribute to impactful projects in healthcare, productivity, and AI-driven applications.
 * To continue enhancing my technical expertise while developing leadership and collaborative skills.
 
 ## 💻 Technical Stack
 
-**Languages & Frameworks:** C, C++, Java, JavaScript, Kotlin, Python, LaTeX
-**Frameworks & Tools:** TensorFlow, PyTorch, NumPy, Pandas, Keras, Django, Angular.js, Next.js, Node.js, Express.js
-**Platforms & Cloud:** Google Cloud, OpenStack
-**Other Tools:** GitHub Actions, Jenkins, Apache Maven, MongoDB, Arduino, Canva, Anaconda
+Programming: Python, C, C++, Java, SQL
+Machine Learning / AI: Deep Learning, NLP, Computer Vision, Neural Networks, Data Preprocessing, Model Deployment
+Frameworks & Tools: TensorFlow, PyTorch, OpenCV, Scikit-learn, Pandas, NumPy
+Databases: MySQL, MongoDB
+Cloud & Deployment: AWS, Flask, Django, Docker, Git, GitHub
+Other Expertise: Data Visualization, Problem-Solving, Full-Stack Basics
 
 ## 🌐 Profiles
 
